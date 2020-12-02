@@ -1,0 +1,7 @@
+/akai/
+/img/
+/img_copy/
+/shelter/
+*.png
+.DS_Store
+/.ipynb*
